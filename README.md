@@ -1,6 +1,6 @@
-# letaps-crm
+# 初始化移动端项目起步配置
 
-> 乐带CRM
+> 方便后期使用vue开发移动端,即拿即用
 
 ## Build Setup
 
